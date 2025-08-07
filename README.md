@@ -9,7 +9,8 @@ This project is a beginner-friendly image classifier built using a Convolutional
 - Live prediction with confidence score
 
 ## 🚀 Live App
-👉 [Click here to try the app](https://image-cnn-demo.streamlit.app)
+👉 [Click here to try the app][ (https://image-cnn-demo.streamlit.app)](https://image-classification-of-dog-cats-or-fruits-using-cnn-q2fgtmlzf.streamlit.app/)
+😁👍
 
 ## 🛠 Tech Stack
 - Python 3.x
